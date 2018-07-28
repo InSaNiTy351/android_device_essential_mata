@@ -60,4 +60,7 @@
          config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">64</integer>
 
+    <!-- Disable LiveDisplay by default -->
+    <integer name="config_defaultLiveDisplayMode">0</integer>
+
 </resources>
